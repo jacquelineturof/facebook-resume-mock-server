@@ -19,6 +19,8 @@
     "twilio": "^3.55.1"
   },
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "websocket": "^1.0.33"
   }
 }
